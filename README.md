@@ -1,1 +1,1 @@
-# LCA-MySQL-Exercises
+# LCA MySQL Exercises
